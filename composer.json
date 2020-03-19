@@ -10,8 +10,8 @@
     }
   ],
   "require": {
-    "php": "^7.3",
-    "react-inspector/metric": "dev-master"
+    "php": "^7.4",
+    "react-inspector/metric": "^1.0"
   },
   "autoload": {
     "psr-4": {
@@ -21,7 +21,7 @@
   "config": {
     "sort-packages": true,
     "platform": {
-      "php": "7.3"
+      "php": "7.4"
     }
   },
   "scripts": {
